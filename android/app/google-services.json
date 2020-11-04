@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614438338143",
+    "firebase_url": "https://devdacticauth.firebaseio.com",
+    "project_id": "devdacticauth",
+    "storage_bucket": "devdacticauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614438338143:android:e84dcc35eeddfcacf225ea",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614438338143-6sltbllplf6htrclqmkbb3krc5tbu79q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "6e4e1a880cac2e9ff25bdc0bf3c6f6a0d1053923"
+          }
+        },
+        {
+          "client_id": "614438338143-45e3jltcsif84viqaa15hhr9pobr25ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATSBedMTms6eiegfvU0-GsGYcdvlBsJTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614438338143-45e3jltcsif84viqaa15hhr9pobr25ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">devdacticLogin</string>
+    <string name="title_activity_main">devdacticLogin</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="server_client_id">614438338143-45e3jltcsif84viqaa15hhr9pobr25ii.apps.googleusercontent.com</string>
+    
+</resources>
